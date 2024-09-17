@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kunal Pateriya</h1>
 <h3 align="center">I am a driven frontend developer with expertise creating online apps and resolving intriguing software development-related issues.</h3>
 
-- 💬 Ask me about **java-script,react,react-redux**
+- 🔭 I’m currently working on **Web Development**
+
+- 🌱 I’m currently learning **MERN**
+
+- 💬 Ask me about **Java-Script,React,React-Redux,Sass,Git & Github**
 
 - 📫 How to reach me **Kunalpateriya83@gmail.com**
 
+- ⚡ Fun fact **I think I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/kunalpateriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunalpateriya" height="30" width="40" /></a>
 <a href="https://fb.com/kunalpateriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kunalpateriya" height="30" width="40" /></a>
 <a href="https://instagram.com/kunal_pateriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunal_pateriya" height="30" width="40" /></a>
 </p>
