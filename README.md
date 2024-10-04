@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Pateriya</h1>
 <h3 align="center">I am a driven frontend developer with expertise creating online apps and resolving intriguing software development-related issues.</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"></img>
 
 - 🔭 I’m currently working on **Web Development**
 
